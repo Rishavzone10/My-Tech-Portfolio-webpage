@@ -1,0 +1,9 @@
+node_modules
+.vercel
+.git
+.gitignore
+*.log
+README.md
+*.psd
+*.ai
+/.vscode
