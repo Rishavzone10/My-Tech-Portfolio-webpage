@@ -1,5 +1,8 @@
 {
   "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/page.html" }
+  ],
   "headers": [
     {
       "source": "/*.@(js|css|html)",
