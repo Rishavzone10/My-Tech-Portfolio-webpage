@@ -60,4 +60,4 @@ Beyond the terminal, I am highly interested in **Cloud FinOps** and hybrid creat
 
 - **Location:** Dhanbad, India
 - **GitHub:** [Rishavzone10](https://github.com/Rishavzone10)
-- **LinkedIn:** [LinkedIn Profile]
+- **LinkedIn:** [[Rishav Srivastav]](https://www.linkedin.com/in/rishav-srivastav-7b48a81a5)
